@@ -1,0 +1,15 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.hding {
+  font-family: "Courier New", Courier, monospace;
+  background-color: black;
+  height: 50px;
+  color: white;
+  display: flex text-align;
+  margin-top: 15px;
+}
+body {
+  background-color: grey;
+}
